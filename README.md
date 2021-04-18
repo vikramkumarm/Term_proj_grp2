@@ -1,4 +1,6 @@
-###                                    TERM PROJECT ON:
+This includes problem from " Applied Elasticity Course "
+
+
 #                     BASIC TRIANGULAR SHAPED GRAVITY DAM PROBLEM
 
 
